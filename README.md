@@ -33,15 +33,3 @@
 ![Screenshot_1](image/Screenshot_12.png)
 
 
-![Screenshot_1](image/Screenshot_1.png)
-![Screenshot_1](image/Screenshot_2.png)
-![Screenshot_1](image/Screenshot_3.png)
-![Screenshot_1](image/Screenshot_4.png)
-![Screenshot_1](image/Screenshot_5.png)
-![Screenshot_1](image/Screenshot_6.png)
-![Screenshot_1](image/Screenshot_7.png)
-![Screenshot_1](image/Screenshot_8.png)
-![Screenshot_1](image/Screenshot_9.png)
-![Screenshot_1](image/Screenshot_10.png)
-![Screenshot_1](image/Screenshot_11.png)
-![Screenshot_1](image/Screenshot_12.png)
