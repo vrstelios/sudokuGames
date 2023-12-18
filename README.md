@@ -1,28 +1,26 @@
 # SudokuGames
-# Εισαγωγή
-Τα παιχνίδια αναπτύχθηκαν από μια ομάδα προπτυχιακών φοιτητών του τμήματος Πληροφορικής ΑΠΘ.
+# Introduction
+The games were developed by a group of undergraduate students of the Department of Computer Science of the Aristotle University of Thessaloniki.
 
-# Περιγραφή παιχνιδιών
-Το SudokuGames αποτελείται απο τρία παιχνίδια το Classic Sudoku , το Killer Sudoku , το Duidoku με σκοπό ο 
-παίχτης να έχει την δυνατότητα να απολαύσει όλα τα παιχνίδια που περιλαμβάνει το Sudoku σε μια εφαρμογή και να μπορεί να 
-επιλέξει να παίζει το κάθε παιχνίδι με γράμματα η με αριθμούς. Παρακάτω θα γίνει μια ανάλυση για το κάθε παιχνίδι ξεχωριστά.
+# Game description
+SudokuGames consists of three games the Classic Sudoku , the Killer Sudoku , the Duidoku with the aim of player to be able to enjoy all the games that comprise Sudoku in one application and to be able to choose to play each game with letters or numbers. Below will be an analysis of each game individually.
 
 ![Screenshot_1](image/Screenshot_1.png)
 ![Screenshot_1](image/Screenshot_2.png)
 
 # Classic Sudoku
-Το Classic Sudoku αποτελεί την δημοφιλέστερη εκδοχή του Sudoku. Πιο συγκεκριμένα, το Sudoku είναι ένα παζλ που βασίζεται στην λογική. Στόχος του είναι να συμπληρωθούν όλα τα κουτάκια του πίνακα (9x9), ώστε κάθε στήλη, κάθε σειρά και κάθε κουτάκι 3x3 να περιέχουν όλα τα ψηφία απο το 1 μέχρι το 9. Ωστόσο, κάποια κουτάκια είναι ήδη συμπληρωμένα για να υπάρχει μόνο μια πιθανή λύση.
+Classic Sudoku is the most popular version of Sudoku. More specifically, Sudoku is a logic-based puzzle. The objective is to fill in all the boxes on the board (9x9) so that each column, each row and each 3x3 box contains all the digits from 1 to 9. However, some boxes are already filled in so that there is only one possible solution.
 
 ![Screenshot_1](image/Screenshot_3.png)
 ![Screenshot_1](image/Screenshot_4.png)
 
 # Killer Sudoku
-Το Killer Sudoku αποτελεί μια παραλλαγή του παζλ που συνδυάζει στοιχεία απο το Sudoku και το Kakuro. Παρά το όνομα του, το Killer Sudoku είναι πιο έυκολο να λυθεί απο το κλασσικο Sudoku γιατί περιλαμβάνει στα κουτάκια του την νοητική αριθμητική. Βέβαια, αυτό εξαρτάται και απο την ικανότητα του λύτη στις πράξεις της αριθμητικής.
+Killer Sudoku is a variant of the puzzle that combines elements from Sudoku and Kakuro. Despite its name, Killer Sudoku is easier to solve than the classic Sudoku because it includes mental arithmetic in its boxes. Of course, this also depends on the solver's ability in arithmetic operations.
 
 ![Screenshot_1](image/Screenshot_5.png)
 
 # Duidoku
-Το Duidoku είναι μια ανταγωνιστική παραλλαγή του Sudoku και δίνεται η δυνατότητα στον χρήστη να ανταγωνιστεί τον χαρακτήρα AI. Πιο συγκεκριμένα, αποτελείται απο κουτάκια 4x4 και νικητής είναι ο παίκτης που θα παργματοποιήσει την τελευταία κίνηση. Επιπρόσθετα, στο συγκεκριμένο παιχνίδι υπάρχει και η βοήθεια ώστε να διευκολύνει τον χρήστη σε περίπτωση που δυσκολεύεται να κερδίσει τον χαρακτήρα AI.
+Duidoku is a competitive variant of Sudoku and allows the user to compete against the AI character. More specifically, it consists of 4x4 boxes and the winner is the player who parries the last move. In addition, this game also features help to make it easier for the user in case he or she has difficulty beating the AI character.
 
 ![Screenshot_1](image/Screenshot_6.png)
 ![Screenshot_1](image/Screenshot_7.png)
